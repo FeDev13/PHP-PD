@@ -23,6 +23,7 @@
     $Resta = $Num1 - $Num2;
     $Division = $Num1/$Num2;
     $Suma = $Num1 * $Num2;
+    $Modulo = $Num1 % $Num2;
 
 
     //ejercicio 4
